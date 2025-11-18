@@ -14,6 +14,9 @@
 - Лучший ROC-AUC: 0.80  
 
 ## Скриншоты
-(вставьте 3-4 графика из ноутбука)
+<img width="789" height="500" alt="image" src="https://github.com/user-attachments/assets/469ff007-19b5-4dd1-8b2a-597434f11b87" />
 
-Автор: [Ваше имя]
+<img width="927" height="694" alt="image" src="https://github.com/user-attachments/assets/7bcae237-8d37-4ef8-8bde-661fd48edb2f" />
+
+
+Автор: Dias Kayrullin Student

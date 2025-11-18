@@ -5,7 +5,7 @@
 Индивидуальный проект по машинному обучению.
 
 ## Как запустить
-1. Открыть в [Google Colab](ссылка на ваш Colab с share)
+1. Открыть в Google Colab https://colab.research.google.com/drive/1iwdzwBKX_gnQldpC2imW8np-04am-byu?authuser=0#scrollTo=p4eUuwJUXQeq
 2. Run all
 
 ## Описание
